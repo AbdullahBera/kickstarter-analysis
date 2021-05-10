@@ -9,7 +9,7 @@ The core purpose of this analysis is to help my client Louise generate insights 
 
 ## Analysis and Challenges
 
-My analysis follows two questions: in my first question I try to understand theater crowdfunding campaigns based on launch date filtered according to months over the years from 2009 to 2014; in my second question I further delve into the parent category of theater data, in which I scrutinize the subcategory of 'plays' according to each campaign' success/failure/cancelation rate in accordance with the projected goal. Although, a more thorough analysis can be conducted, with my analysis I forecast a concise explanation and possible recommendations to build onto this report to attain a better outcome.   
+My analysis follows two questions: in my first question I try to understand theater crowdfunding campaigns based on launch date filtered according to months over the years from 2009 to 2014; in my second question I further delve into the parent category of theater data, in which I scrutinize the subcategory of 'plays' according to each campaigns success/failure/cancelation rate in accordance with the projected goal. Although, a more thorough analysis can be conducted, with my analysis I forecast a concise explanation and possible recommendations to build onto this report to attain a better outcome.   
 
 
 ### Analysis of Outcomes Based on Launch Date
@@ -19,7 +19,7 @@ In the line graph above I filtered my data according to successful, failed and c
 
 
 ### Analysis of Outcomes Based on Goals
-In my second question I try to understand what goal interval are play crowdfunding campaigns more successful in all 21 countries. I solely focus on the subcategory of plays because of their high success rate in the parent category of theater. ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)***Figure 2: Outcomes Based on Goals*** 
+In my second question I try to understand what goal interval are play crowdfunding campaigns more successful in all 21 countries. I solely focus on the subcategory of plays because of their high success rate in the parent category of theater. ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)***Figure 2: Outcomes Based on Goal for Plays*** 
 
 In the line graph above, I arranged my data according to 12 ranges. The blue line represents successful outcomes, the orange line represents failed outcomes, and the gray line represents canceled outcomes. The 'less than '$1,000' and '$1,000 to $4,999' are ranges where plays recorded a high success rate of about 80%. After these ranges, there is a steady decrease until the '$25,000 to $29,999' range hitting a 20% low, however, it sharply bounces back up to achieve a success rate of about 70% in the ranges for '$35,000 to $39,999' and '$40,000 to $44,999'. Lastly, the success rate plunges to a 0% at the '$45,000 to $49,999' range and then bounces back to a success rate of about 20% in the 'greater than $50,000' range. The highest unsuccessful goal recorded was the '$25,000 to $29,999' and '$45,000 to $49,999' range.  There is no recorded canceled play crowdfunding campaigns from 2009 to 2014 in all 21 countries.  
 
